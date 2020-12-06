@@ -1,0 +1,94 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to top right, #2e12ff, #12b8ff, #8a30ff, #e85f4a, #ff1212);
+}
+
+#header
+{
+    color: #34ebc3;
+    background-color: #eb4f34;
+    border: 5px solid black;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#span_2
+{
+    background-color: #3d6eff;
+    border: 3px solid black;
+    color: white;
+    border-radius: 15px;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 5px solid black;
+    background-color: #42ffaa;
+    width:  350px;
+    height: 300px;
+}
+
+#result
+{
+    border: 10px black;
+    width: 350px;
+    height: 300px;
+}
+
+#heading_div
+{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    border-radius: 15px;
+    font-size: 27px;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 5px 5px 5px #5e5e5e;
+}
+
+#webcam_h3
+{
+    border: 3px dashed #ff54eb;
+    border-radius: 20px;
+    background-color: #1e67fa;
+    color: #ff54eb;
+}
+
+#p1
+{
+color: white;
+background-color: #42ffaa;
+border-radius: 10px;
+font-family: 'JetBrains Mono', monospace;
+width: 500px;
+height: 32px;
+}
+
+#p2
+{
+    color: white;
+    background-color: #42ffaa;
+    border-radius: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    width: 500px;
+    height: 32px;
+}
+
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    background-color: #ff2bb8;
+    font-size: 23px;
+}
